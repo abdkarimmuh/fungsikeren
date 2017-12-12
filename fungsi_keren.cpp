@@ -13,6 +13,8 @@ int main(){
 		keluar();
 	}
 
+	cout<<"Mau keluar, croot.... didalam"<<endl;
+
 }
 
 int masuk(){
