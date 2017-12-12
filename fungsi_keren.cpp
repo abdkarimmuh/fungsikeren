@@ -14,6 +14,7 @@ int main(){
 	}
 
 	cout<<"Mau keluar, croot.... didalam"<<endl;
+	cout<<endl<<endl<<endl<<"credit by : Debi Onas Saputra"<<endl;
 
 }
 
